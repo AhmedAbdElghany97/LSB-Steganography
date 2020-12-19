@@ -1,10 +1,10 @@
 function LSB_EXTRACT(img,path,name)
-img=double(img);
-[m,n]=size(img);
-len_total=m*n;
-path=strcat(path,name);
-msg=fopen(path,'w+');
-p=1;
+    img=double(img);
+    [m,n]=size(img);
+    len_total=m*n;
+    path=strcat(path,name);
+    msg=fopen(path,'w+');
+    p=1;
 for f2=1:n;
     for f1=1:m;
         if bitand(img(f1,f2),1)==1
@@ -25,4 +25,3 @@ for f2=1:n;
 end
 fclose(msg);
 end
-
