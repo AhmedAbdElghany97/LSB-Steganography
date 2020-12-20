@@ -1,6 +1,6 @@
-> Image-Steganography Using LSB Algorithm | Graduation Project | Ahmed Abd Elghany | Computer Science | 2019
-
 <img src="https://miro.medium.com/max/2560/1*dQyfOpFWmSxrmdOcQgW6OQ.jpeg" alt="Image Steganography" width="800"/>
+
+> Image-Steganography Using LSB Algorithm | Graduation Project | Ahmed Abd Elghany | Computer Science | 2019
 
 # Image Steganography using LSB Algorithm
 
